@@ -1,0 +1,17 @@
+OFII Medical Visit — Overview
+
+The OFII medical visit (visite médicale de l'Office Français de l'Immigration et de l'Intégration) is a mandatory step for most foreign nationals settling in France, connected to validating a long-stay visa (VLS-TS) or, in some cases, to signing the Contrat d'Intégration Républicaine (CIR).
+
+For most newcomers holding a VLS-TS, the process begins with validating that visa online within 3 months of arrival in France, which includes paying a validation fee (amounts vary by status — for example, figures cited for 2026 include around 350 euros for salaried workers and around 150 euros for students, paid via an electronic fiscal stamp). Validating the VLS-TS is what triggers OFII to send a medical visit summons.
+
+The convocation is sent by mail or electronically by OFII's regional office. Waiting times to receive it vary significantly by region — commonly cited ranges are around 4 to 8 weeks outside the Paris region, but can extend to several months in Île-de-France due to higher demand.
+
+The visit itself is free of charge and confidential. It generally includes a general medical interview, a chest X-ray, a blood pressure check, weight measurement, and a review of vaccination status. The full appointment can take between roughly 1.5 and 3 hours, and for many applicants it is combined with the broader welcome/orientation day, which may also include a French language level assessment and the signing of the CIR.
+
+At the end of the visit, the applicant receives a medical certificate. This certificate is generally required to be included with residence permit applications and renewals — including, in many cases, for the "vie privée et familiale" (private and family life) card category.
+
+If an applicant has not been contacted by OFII within 45 days of their VLS-TS validation, they can write to the nearest OFII regional office, enclosing a copy of their passport (identity page, entry stamp, and visa pages) along with confirmation of their VLS-TS validation.
+
+In family reunification cases, spouses and children aged 16 or older must also complete an OFII medical visit; if the visit is deferred to after arrival in France (rather than completed in the country of origin), the applicant must report to their local OFII office within 3 months of arrival to be scheduled.
+
+Source: adapted from service-public.fr, OFII official guidance, and related administrative resources, current as of mid-2026.

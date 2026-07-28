@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+chroma/
+embeddings_cache.json
+context_cache.json
+.pytest_cache/
+*.db
+lora_output/
+learning-exercises/

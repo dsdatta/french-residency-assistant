@@ -1,0 +1,15 @@
+Examen civique (Civic Exam) — Overview
+
+The examen civique is an official exam created by the French Ministry of the Interior, evaluating a candidate's knowledge of French society, its values, and how it functions. It was introduced under the law of January 26, 2024 on immigration and integration, and became a mandatory requirement starting January 1, 2026.
+
+The exam is required for foreign nationals, signatories of the Contrat d'Intégration Républicaine (CIR), applying for the first time for either a carte de séjour pluriannuelle (CSP) or a carte de résident (CR) — including as part of the naturalization process for French nationality, where a similar requirement applies. It is not required for renewals: once a CSP or CR has been obtained, a later renewal of the same card type does not require retaking the exam.
+
+Certain applicants are exempt, including beneficiaries of international protection (such as refugees) and nationals of countries covered by specific bilateral agreements. Accommodations or exemptions from the exam are also available for candidates whose disability or health condition prevents standard evaluation, subject to providing a medical certificate; the administration may request a further medical review to confirm this.
+
+There are two distinct exam levels. The CSP-level exam corresponds to an A2 French proficiency level and includes around 190 knowledge questions. The CR-level exam (required for the carte de résident) is more demanding, corresponding to a B1 proficiency level with around 210 questions, deeper subject coverage, and more advanced vocabulary. An attestation from the CSP-level exam is not valid as a substitute for the CR-level exam — a candidate applying for the carte de résident must sit the CR-level version specifically.
+
+The exam is entirely digital and takes the form of multiple-choice questions, with four answer options per question and only one correct answer. Topics include French history (spanning from the monarchy through the Fifth Republic for the CR level), the symbols and institutions of the Republic and the European Union, and practical questions on daily life such as family, work, health, and education. The CR-level exam also includes situational judgment questions, which are not part of the publicly released official question list.
+
+The exam lasts a maximum of 45 minutes. Results are typically available in the candidate's online account within about 12 hours of completion. Once obtained, the certificate of success has no expiry date and can be reused for later administrative procedures, though registration fees (cited as roughly 70 euros) must be paid again for each new attempt if a candidate needs to retake the exam. Attempting to cheat during the exam results in a ban from retaking it for two years.
+
+Source: adapted from service-public.fr, the Ministry of the Interior's official civic exam portal, and related official guidance, current as of mid-2026.
