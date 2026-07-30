@@ -46,7 +46,7 @@ def vector_search_score(query):
     return search_result["ids"][0]
 
 
-# fn to combine hybrid search & vector search to build Reciprocal Rank Fusion
+# fn to combine bm25 search & vector search to build Reciprocal Rank Fusion
 def combine_rrf(query):
     # Reciprocal Rank Fusion scores
     rrf_scores = {}
